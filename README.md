@@ -73,7 +73,7 @@ I love turning complex problems into clean, maintainable solutions.
       />
     </td>
 
-    <!-- LeetCode Section -->
+   
    <td width="50%" align="center">
   <h3>🏆 LeetCode Progress</h3>
   <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
