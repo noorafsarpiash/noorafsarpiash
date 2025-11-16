@@ -50,7 +50,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
 <table>
   <tr>
 
-   
+    <!-- GitHub Stats -->
     <td width="50%" align="center" style="vertical-align:top;">
       <h3>✨ GitHub Contributions</h3>
       <img 
@@ -63,7 +63,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
       />
     </td>
 
-    
+    <!-- LeetCode Stats -->
     <td width="50%" align="center" style="vertical-align:top;">
       <h3>🏆 LeetCode Progress</h3>
       <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
@@ -76,6 +76,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
 
   </tr>
 </table>
+
 
 
 
