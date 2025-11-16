@@ -54,7 +54,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
     </td>
     <td width="50%">
       <h3 align="center">LeetCode Progress</h3>
-      <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
+      <a href="https://leetcode.com/noorafsarpiash" target="_blank">
         <img src="https://leetcode-stats-github-action.vercel.app/api?username=noorafsarpiash&theme=dark" alt="LeetCode Stats" />
       </a>
     </td>
