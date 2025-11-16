@@ -59,6 +59,7 @@ I love turning complex problems into clean, maintainable solutions.
 <table>
   <tr>
     
+     <!-- GitHub Stats -->
     <td width="50%" align="center">
       <h3>✨ GitHub Contributions</h3>
       <img 
@@ -74,7 +75,7 @@ I love turning complex problems into clean, maintainable solutions.
     </td>
 
   
-   <td width="50%" align="center">
+  <td width="50%" align="center">
   <h3>🏆 LeetCode Progress</h3>
   <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
     <img 
@@ -84,6 +85,7 @@ I love turning complex problems into clean, maintainable solutions.
     />
   </a>
 </td>
+</tr>
 </table>
 
 
