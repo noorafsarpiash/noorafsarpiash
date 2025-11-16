@@ -52,10 +52,10 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
       <h3 align="center">GitHub Contributions</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=noorafsarpiash&show_icons=true&theme=buefy" alt="GitHub Stats" />
     </td>
-   <td width="50%">
+  <td width="50%">
     <h3 align="center">LeetCode Progress</h3>
     <a href="https://leetcode.com/noorafsarpiash" target="_blank">
-      <img src="https://leetcode-stats-server.herokuapp.com/noorafsarpiash?theme=dark" alt="LeetCode Stats" />
+      <img src="https://leetcode-badge.thautwarm.com/noorafsarpiash" alt="LeetCode Stats" />
     </a>
 </td>
   </tr>
