@@ -2,21 +2,31 @@
   <img src="https://komarev.com/ghpvc/?username=noorafsarpiash&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
 
-# 👋 I'm Noor Afsar Piash
-I'm a passionate **MERN Stack / Full Stack Web Developer** focused on building efficient, scalable, and user-friendly applications. I enjoy tackling challenging problems and turning complex requirements into simple, functional code.
+# 👋 Hi, I'm **Noor Afsar Piash**
+A passionate **MERN Stack / Full Stack Web Developer** focused on building efficient, scalable, and user-friendly applications.  
+I love turning complex problems into clean, maintainable solutions.
 
-I'm currently looking for **Junior Developer** roles where I can contribute to exciting projects and grow my skills in a collaborative team environment.
+🔍 Currently looking for **Junior Developer** opportunities — excited to collaborate, learn, and grow within a professional engineering team.
 
 ---
 
-### 🚀 Skills & Focus Areas
-* **Primary Focus:** Developing robust and secure back-end APIs with **Node.js/Express** and dynamic front-ends with **React/Next.js**.
-* **Goal:** Excited to learn and implement **Next.js** advanced features (SSR, Server Actions) and explore **DevOps** fundamentals.
-* **Interests:** Clean Code Architecture, Performance Optimization, and Data Structures & Algorithms (DSA).
+## 🚀 Skills & Focus Areas
 
-### 💻 Technology Stack
+### 🔧 What I Do
+- Build secure and optimized back-end APIs using **Node.js & Express**
+- Create modern, dynamic front-ends with **React & Next.js**
+- Follow clean coding principles and scalable architecture
 
-#### Frontend & UI
+### 🎯 My Goals
+- Master **Next.js (SSR, Server Actions, Full-stack features)**
+- Learn **DevOps fundamentals** (CI/CD, Docker, Cloud)
+- Strengthen DSA & system design knowledge
+
+---
+
+## 💻 **Technology Stack**
+
+### 🎨 Frontend & UI
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
@@ -26,7 +36,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
-#### Backend & Database
+### ⚙️ Backend & Database
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -34,7 +44,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
   <img src="https://img.shields.io/badge/-Mongoose-7C3F00?style=flat&logo=mongoose&logoColor=white" />
 </p>
 
-#### Tools & Platforms
+### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -44,8 +54,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
 
 ---
 
-### 📊 My Coding Statistics
-
+## 📊 **My Coding Statistics**
 
 <table>
   <tr>
@@ -77,13 +86,9 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
   </tr>
 </table>
 
-
-
-
 ---
 
-### 📬 Let's Connect!
-
+## 📬 **Let's Connect**
 
 <p align="center">
   <a href="mailto:noorpiash1234@gmail.com" >
