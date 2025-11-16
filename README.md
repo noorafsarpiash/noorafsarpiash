@@ -64,6 +64,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
 ---
 
 ### 📬 Let's Connect!
+https://leetcode-stats-server.herokuapp.com/noorafsarpiash?theme=dark
 
 <p align="center">
   <a href="mailto:noorpiash1234@gmail.com" >
