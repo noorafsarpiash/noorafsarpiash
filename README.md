@@ -74,17 +74,16 @@ I love turning complex problems into clean, maintainable solutions.
     </td>
 
     <!-- LeetCode Section -->
-    <td width="50%" align="center">
-      <h3>🏆 LeetCode Progress</h3>
-      <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
-        <img 
-          src="https://leetcard.jacoblin.cool/noorafsarpiash?theme=dark&font=Karla&ext=heatmap&border_radius=12&radius=12&border=1px%20solid%20gold&bg_color=0d0d0d&text_color=gold&icon_color=gold"
-          alt="LeetCode Stats"
-          width="90%"
-        />
-      </a>
-    </td>
-  </tr>
+   <td width="50%" align="center">
+  <h3>🏆 LeetCode Progress</h3>
+  <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/noorafsarpiash?theme=dark&font=Karla&ext=heatmap&border=2&radius=12&bg_color=0d0d0d&text_color=gold&icon_color=gold"
+      alt="LeetCode Stats"
+      width="90%"
+    />
+  </a>
+</td>
 </table>
 
 
