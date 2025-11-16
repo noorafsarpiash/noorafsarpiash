@@ -58,33 +58,35 @@ I love turning complex problems into clean, maintainable solutions.
 
 <table>
   <tr>
-
     <!-- GitHub Stats -->
-    <td width="50%" align="center" style="vertical-align:top;">
+    <td width="50%" align="center">
       <h3>✨ GitHub Contributions</h3>
       <img 
         src="https://github-readme-stats.vercel.app/api?username=noorafsarpiash&show_icons=true&theme=highcontrast&title_color=gold&icon_color=gold&text_color=ffffff" 
+        alt="GitHub Stats"
         width="90%"
-      /><br/><br/>
+      />
+      <br />
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=noorafsarpiash&theme=highcontrast&fire=gold&currStreakLabel=gold"
         width="90%"
       />
     </td>
 
-    <!-- LeetCode Stats -->
-    <td width="50%" align="center" style="vertical-align:top;">
+    <!-- LeetCode Section -->
+    <td width="50%" align="center">
       <h3>🏆 LeetCode Progress</h3>
       <a href="https://leetcode.com/noorafsarpiash/" target="_blank">
         <img 
-          src="https://leetcard.jacoblin.cool/noorafsarpiash?theme=dark&font=Karla&ext=heatmap&border=1px%20solid%20gold&radius=12&bg_color=0d0d0d&text_color=gold&icon_color=gold"
+          src="https://leetcard.jacoblin.cool/noorafsarpiash?theme=dark&font=Karla&ext=heatmap&border_radius=12&radius=12&border=1px%20solid%20gold&bg_color=0d0d0d&text_color=gold&icon_color=gold"
+          alt="LeetCode Stats"
           width="90%"
         />
       </a>
     </td>
-
   </tr>
 </table>
+
 
 ---
 
