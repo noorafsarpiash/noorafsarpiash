@@ -66,7 +66,7 @@ I'm currently looking for **Junior Developer** roles where I can contribute to e
 ### 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:noorpiash1234@gmail.com" target="_blank">
+  <a href="mailto:noorpiash1234@gmail.com" >
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/noorafsarpiash" target="_blank">
