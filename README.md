@@ -15,13 +15,13 @@ I love turning complex problems into clean, maintainable solutions.
 
 ---
 
----
+
 
 ## 👋 Open to Opportunities
 Open to freelance projects & full-time opportunities.  
 Feel free to reach out anytime!
 
----
+
 
 
 
