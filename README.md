@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorafsarpiash&style=for-the-badge&color=blue" alt="Profile views" />
+
+![Profile views](https://komarev.com/ghpvc/?username=noorafsarpiash&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/noorafsarpiash?style=social)
+![GitHub stars](https://img.shields.io/github/stars/noorafsarpiash?style=social)
+
 </div>
+
 
 # 👋 Hi, I'm **Noor Afsar Piash**
 A passionate **MERN Stack / Full Stack Web Developer** focused on building efficient, scalable, and user-friendly applications.  
